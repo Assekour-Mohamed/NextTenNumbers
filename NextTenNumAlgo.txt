@@ -1,0 +1,10 @@
+algorithme NextTenNum  
+variables 
+  m,i :entier
+ debut 
+  ecrire("enter the number")
+  lire(m)
+  pour i<- 0 a 10 PAS 1 fair
+    ecrire(m+1)
+  finpour
+fin
